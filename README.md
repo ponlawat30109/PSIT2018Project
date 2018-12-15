@@ -6,7 +6,7 @@ https://github.com/ponlawat30109/PSIT2018Project
 - numpy
 - pygal
 - pandas
-## Result Site
+## Result Site ที่ยังไม่ได้ทำ :3
 https://medium.com/@ponlawatsuwanyukabordin/psit-project-3b8f3e4530d3
 ## Group Members
 <img src="Data/Pic/1.jpg" width="120px" height="120px">|<img src="Data/Pic/2.jpg" width="120px" height="120px">|<img src="Data/Pic/3.jpg" width="120px" height="120px">
