@@ -6,7 +6,7 @@ https://github.com/ponlawat30109/PSIT2018Project
 - numpy
 - pygal
 - pandas
-## Result Site
+## Result Site (´・ω・`)
 https://medium.com/@ltarnpattita/problem-solving-in-information-technology-project-view-of-bnk48-f781ce8f57f4
 ## Group Members
 <img src="Data/Pic/1.jpg" width="120px" height="120px">|<img src="Data/Pic/2.jpg" width="120px" height="120px">|<img src="Data/Pic/3.jpg" width="120px" height="120px">
