@@ -1,4 +1,4 @@
-# PSIT2018Project
+# PSIT2018Project "View of BNK48"
 This project is a part of the subject Problem Solving in Information Technology (PSIT), Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).
 ## Project Site
 https://github.com/ponlawat30109/PSIT2018Project
